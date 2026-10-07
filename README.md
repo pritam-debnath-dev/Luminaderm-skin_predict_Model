@@ -237,3 +237,6 @@ LuminaDerm explores how computer vision can support an initial skin
 assessment while keeping the limits of AI clear. The project is intended
 to provide useful information and context---not to make a medical
 decision for the user.
+
+## Working URL
+: https://derm-predict-ai.lovable.app
